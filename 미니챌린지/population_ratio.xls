@@ -1,0 +1,540 @@
+<!DOCTYPE HTML>
+<html lang="ko">
+<head>
+	<meta charset="utf-8">
+</head>
+<body>
+			<table class="tb03" border="1" cellpadding="1" cellspacing="1">
+				<caption>연령별 인구 구성비</caption>
+				<colgroup>
+					<col style="width: 200px"/>
+					<col style="width: 120px"/>
+						<col style="width: 120px"/>
+						<col style="width: 120px"/>
+						<col style="width: 120px"/>
+						<col style="width: 120px"/>
+						<col style="width: 120px"/>
+						<col style="width: 120px"/>
+						</colgroup>
+				<thead>
+					
+					<tr bgcolor="5B9BD5"> 
+						<th scope="col" rowspan="2">구분</th>
+						<th scope="col" colspan="7">2019 년</th>
+						</tr>
+					<tr bgcolor="5B9BD5">
+						
+						<th scope="col" colspan="1" >9세이하</th>
+										<th scope="col" colspan="1" >10~19세</th>
+										<th scope="col" colspan="1" >20~29세</th>
+										<th scope="col" colspan="1" >30~39세</th>
+										<th scope="col" colspan="1" >40~49세</th>
+										<th scope="col" colspan="1" >50~59세</th>
+										<th scope="col" colspan="1" class="last">60세이상</th>
+									</tr>
+<tr bgcolor="5B9BD5">
+						<th scope="col">행정구역</th>
+						<th scope="col" >구성비(%)</th>
+							<th scope="col" >구성비(%)</th>
+							<th scope="col" >구성비(%)</th>
+							<th scope="col" >구성비(%)</th>
+							<th scope="col" >구성비(%)</th>
+							<th scope="col" >구성비(%)</th>
+							<th scope="col" class="last">구성비(%)</th>
+							</tr>
+</thead>
+				<tbody>				
+				<tr>
+						<td>경기도</td>
+						<td >8.95</td>
+							<td >10.24</td>
+							<td >13.37</td>
+							<td >14.55</td>
+							<td >17.3</td>
+							<td >16.61</td>
+							<td class="last">18.98</td>
+							</tr>
+				<tr>
+						<td>_수원시(경기)</td>
+						<td >8.73</td>
+							<td >10.37</td>
+							<td >15.62</td>
+							<td >15.5</td>
+							<td >17.24</td>
+							<td >16.4</td>
+							<td class="last">16.14</td>
+							</tr>
+				<tr>
+						<td>__장안구(경기수원)</td>
+						<td >7.22</td>
+							<td >10.99</td>
+							<td >15.95</td>
+							<td >12.33</td>
+							<td >17.03</td>
+							<td >17.73</td>
+							<td class="last">18.75</td>
+							</tr>
+				<tr>
+						<td>__권선구(경기수원)</td>
+						<td >9.32</td>
+							<td >9.36</td>
+							<td >14.85</td>
+							<td >16.41</td>
+							<td >16.6</td>
+							<td >16.85</td>
+							<td class="last">16.61</td>
+							</tr>
+				<tr>
+						<td>__팔달구(경기수원)</td>
+						<td >5.95</td>
+							<td >8.41</td>
+							<td >16.02</td>
+							<td >14.4</td>
+							<td >16.06</td>
+							<td >17.53</td>
+							<td class="last">21.63</td>
+							</tr>
+				<tr>
+						<td>__영통구(경기수원)</td>
+						<td >10.61</td>
+							<td >11.86</td>
+							<td >15.97</td>
+							<td >17.5</td>
+							<td >18.62</td>
+							<td >14.41</td>
+							<td class="last">11.03</td>
+							</tr>
+				<tr>
+						<td>_성남시(경기)</td>
+						<td >7.64</td>
+							<td >9.68</td>
+							<td >14.04</td>
+							<td >14.8</td>
+							<td >17</td>
+							<td >16.59</td>
+							<td class="last">20.25</td>
+							</tr>
+				<tr>
+						<td>__수정구(경기성남)</td>
+						<td >6.85</td>
+							<td >7.61</td>
+							<td >14.44</td>
+							<td >14.96</td>
+							<td >15.89</td>
+							<td >17.24</td>
+							<td class="last">23.01</td>
+							</tr>
+				<tr>
+						<td>__중원구(경기성남)</td>
+						<td >6.47</td>
+							<td >8.1</td>
+							<td >14.33</td>
+							<td >14.59</td>
+							<td >15.64</td>
+							<td >18.1</td>
+							<td class="last">22.77</td>
+							</tr>
+				<tr>
+						<td>__분당구(경기성남)</td>
+						<td >8.54</td>
+							<td >11.39</td>
+							<td >13.73</td>
+							<td >14.83</td>
+							<td >18.16</td>
+							<td >15.6</td>
+							<td class="last">17.75</td>
+							</tr>
+				<tr>
+						<td>_의정부시(경기)</td>
+						<td >7.81</td>
+							<td >9.71</td>
+							<td >13.83</td>
+							<td >13.23</td>
+							<td >16.52</td>
+							<td >17.43</td>
+							<td class="last">21.47</td>
+							</tr>
+				<tr>
+						<td>_안양시(경기)</td>
+						<td >7.54</td>
+							<td >9.84</td>
+							<td >14.35</td>
+							<td >14.22</td>
+							<td >16.22</td>
+							<td >17.85</td>
+							<td class="last">19.98</td>
+							</tr>
+				<tr>
+						<td>__만안구(경기안양)</td>
+						<td >6.9</td>
+							<td >8.22</td>
+							<td >14.56</td>
+							<td >14.15</td>
+							<td >14.93</td>
+							<td >18.4</td>
+							<td class="last">22.84</td>
+							</tr>
+				<tr>
+						<td>__동안구(경기안양)</td>
+						<td >8.03</td>
+							<td >11.06</td>
+							<td >14.19</td>
+							<td >14.28</td>
+							<td >17.19</td>
+							<td >17.44</td>
+							<td class="last">17.81</td>
+							</tr>
+				<tr>
+						<td>_부천시(경기)</td>
+						<td >7.47</td>
+							<td >8.98</td>
+							<td >14.43</td>
+							<td >14.61</td>
+							<td >16.02</td>
+							<td >18.19</td>
+							<td class="last">20.3</td>
+							</tr>
+				<tr>
+						<td>_광명시(경기)</td>
+						<td >8.13</td>
+							<td >10.44</td>
+							<td >12.94</td>
+							<td >14.29</td>
+							<td >17.38</td>
+							<td >16.61</td>
+							<td class="last">20.21</td>
+							</tr>
+				<tr>
+						<td>_평택시(경기)</td>
+						<td >9.4</td>
+							<td >10.35</td>
+							<td >13.44</td>
+							<td >14.97</td>
+							<td >17.56</td>
+							<td >16.27</td>
+							<td class="last">18.01</td>
+							</tr>
+				<tr>
+						<td>_동두천시(경기)</td>
+						<td >7.3</td>
+							<td >9.5</td>
+							<td >11.82</td>
+							<td >11.22</td>
+							<td >15.76</td>
+							<td >17.22</td>
+							<td class="last">27.18</td>
+							</tr>
+				<tr>
+						<td>_안산시(경기)</td>
+						<td >7.13</td>
+							<td >10.47</td>
+							<td >16.15</td>
+							<td >13.19</td>
+							<td >17.1</td>
+							<td >19.38</td>
+							<td class="last">16.58</td>
+							</tr>
+				<tr>
+						<td>__상록구(경기안산)</td>
+						<td >6.95</td>
+							<td >10.36</td>
+							<td >16.45</td>
+							<td >12.73</td>
+							<td >17.03</td>
+							<td >19.42</td>
+							<td class="last">17.06</td>
+							</tr>
+				<tr>
+						<td>__단원구(경기안산)</td>
+						<td >7.34</td>
+							<td >10.59</td>
+							<td >15.81</td>
+							<td >13.71</td>
+							<td >17.17</td>
+							<td >19.33</td>
+							<td class="last">16.05</td>
+							</tr>
+				<tr>
+						<td>_고양시(경기)</td>
+						<td >7.95</td>
+							<td >10.22</td>
+							<td >14.04</td>
+							<td >13.28</td>
+							<td >17.4</td>
+							<td >17.92</td>
+							<td class="last">19.19</td>
+							</tr>
+				<tr>
+						<td>__덕양구(경기고양)</td>
+						<td >8.34</td>
+							<td >9.13</td>
+							<td >13.36</td>
+							<td >14.2</td>
+							<td >16.81</td>
+							<td >17.42</td>
+							<td class="last">20.74</td>
+							</tr>
+				<tr>
+						<td>__일산동구(경기고양)</td>
+						<td >7.34</td>
+							<td >10.37</td>
+							<td >14.95</td>
+							<td >12.95</td>
+							<td >17.76</td>
+							<td >18.41</td>
+							<td class="last">18.22</td>
+							</tr>
+				<tr>
+						<td>__일산서구(경기고양)</td>
+						<td >7.96</td>
+							<td >11.76</td>
+							<td >14.18</td>
+							<td >12.18</td>
+							<td >17.95</td>
+							<td >18.22</td>
+							<td class="last">17.75</td>
+							</tr>
+				<tr>
+						<td>_과천시(경기)</td>
+						<td >7.73</td>
+							<td >10.92</td>
+							<td >13.76</td>
+							<td >13.39</td>
+							<td >15.8</td>
+							<td >17.63</td>
+							<td class="last">20.77</td>
+							</tr>
+				<tr>
+						<td>_구리시(경기)</td>
+						<td >8.2</td>
+							<td >9.59</td>
+							<td >13.8</td>
+							<td >13.84</td>
+							<td >16.86</td>
+							<td >18.02</td>
+							<td class="last">19.69</td>
+							</tr>
+				<tr>
+						<td>_남양주시(경기)</td>
+						<td >9.63</td>
+							<td >11.09</td>
+							<td >11.79</td>
+							<td >13.15</td>
+							<td >18.36</td>
+							<td >16.21</td>
+							<td class="last">19.77</td>
+							</tr>
+				<tr>
+						<td>_오산시(경기)</td>
+						<td >11.16</td>
+							<td >11.04</td>
+							<td >13.44</td>
+							<td >17.71</td>
+							<td >18.56</td>
+							<td >14.23</td>
+							<td class="last">13.86</td>
+							</tr>
+				<tr>
+						<td>_시흥시(경기)</td>
+						<td >9.88</td>
+							<td >10.55</td>
+							<td >13.94</td>
+							<td >15.59</td>
+							<td >18.24</td>
+							<td >17.53</td>
+							<td class="last">14.27</td>
+							</tr>
+				<tr>
+						<td>_군포시(경기)</td>
+						<td >8.19</td>
+							<td >10.18</td>
+							<td >13.85</td>
+							<td >14.46</td>
+							<td >16.59</td>
+							<td >17.52</td>
+							<td class="last">19.21</td>
+							</tr>
+				<tr>
+						<td>_의왕시(경기)</td>
+						<td >8.13</td>
+							<td >9.41</td>
+							<td >14.11</td>
+							<td >13.73</td>
+							<td >15.49</td>
+							<td >18.39</td>
+							<td class="last">20.74</td>
+							</tr>
+				<tr>
+						<td>_하남시(경기)</td>
+						<td >10.88</td>
+							<td >8.67</td>
+							<td >11.84</td>
+							<td >17.19</td>
+							<td >17.27</td>
+							<td >14.84</td>
+							<td class="last">19.31</td>
+							</tr>
+				<tr>
+						<td>_용인시(경기)</td>
+						<td >9.95</td>
+							<td >11.62</td>
+							<td >12.48</td>
+							<td >14.11</td>
+							<td >18.9</td>
+							<td >14.9</td>
+							<td class="last">18.04</td>
+							</tr>
+				<tr>
+						<td>__처인구(경기용인)</td>
+						<td >8.79</td>
+							<td >10.03</td>
+							<td >13.09</td>
+							<td >13.74</td>
+							<td >17.03</td>
+							<td >16.75</td>
+							<td class="last">20.57</td>
+							</tr>
+				<tr>
+						<td>__기흥구(경기용인)</td>
+						<td >10.5</td>
+							<td >11.86</td>
+							<td >12.31</td>
+							<td >14.32</td>
+							<td >19.4</td>
+							<td >14.41</td>
+							<td class="last">17.2</td>
+							</tr>
+				<tr>
+						<td>__수지구(경기용인)</td>
+						<td >10.1</td>
+							<td >12.42</td>
+							<td >12.27</td>
+							<td >14.11</td>
+							<td >19.59</td>
+							<td >14.21</td>
+							<td class="last">17.3</td>
+							</tr>
+				<tr>
+						<td>_파주시(경기)</td>
+						<td >9.99</td>
+							<td >10.71</td>
+							<td >12.17</td>
+							<td >14.94</td>
+							<td >17.43</td>
+							<td >15.33</td>
+							<td class="last">19.43</td>
+							</tr>
+				<tr>
+						<td>_이천시(경기)</td>
+						<td >9.26</td>
+							<td >10.51</td>
+							<td >13.34</td>
+							<td >14.3</td>
+							<td >16.14</td>
+							<td >16.19</td>
+							<td class="last">20.26</td>
+							</tr>
+				<tr>
+						<td>_안성시(경기)</td>
+						<td >8.15</td>
+							<td >9.96</td>
+							<td >11.7</td>
+							<td >12.89</td>
+							<td >16.31</td>
+							<td >16.81</td>
+							<td class="last">24.18</td>
+							</tr>
+				<tr>
+						<td>_김포시(경기)</td>
+						<td >11.91</td>
+							<td >10.25</td>
+							<td >10.85</td>
+							<td >16.27</td>
+							<td >18.38</td>
+							<td >14.35</td>
+							<td class="last">17.99</td>
+							</tr>
+				<tr>
+						<td>_화성시(경기)</td>
+						<td >12.95</td>
+							<td >11.37</td>
+							<td >11.88</td>
+							<td >18.39</td>
+							<td >19</td>
+							<td >13.23</td>
+							<td class="last">13.18</td>
+							</tr>
+				<tr>
+						<td>_광주시(경기)</td>
+						<td >9.72</td>
+							<td >9.01</td>
+							<td >11.78</td>
+							<td >16.06</td>
+							<td >17.32</td>
+							<td >16.51</td>
+							<td class="last">19.6</td>
+							</tr>
+				<tr>
+						<td>_양주시(경기)</td>
+						<td >8.91</td>
+							<td >10.76</td>
+							<td >11.82</td>
+							<td >12.42</td>
+							<td >17.36</td>
+							<td >16.56</td>
+							<td class="last">22.17</td>
+							</tr>
+				<tr>
+						<td>_포천시(경기)</td>
+						<td >6.28</td>
+							<td >8.87</td>
+							<td >12.06</td>
+							<td >10.14</td>
+							<td >14.46</td>
+							<td >20.06</td>
+							<td class="last">28.13</td>
+							</tr>
+				<tr>
+						<td>_여주시(경기)</td>
+						<td >6.95</td>
+							<td >8.96</td>
+							<td >10.86</td>
+							<td >10.81</td>
+							<td >14.55</td>
+							<td >18.19</td>
+							<td class="last">29.68</td>
+							</tr>
+				<tr>
+						<td>_연천군(경기)</td>
+						<td >6.71</td>
+							<td >7.6</td>
+							<td >12.48</td>
+							<td >9.89</td>
+							<td >11.59</td>
+							<td >16.9</td>
+							<td class="last">34.83</td>
+							</tr>
+				<tr>
+						<td>_가평군(경기)</td>
+						<td >5.78</td>
+							<td >7.78</td>
+							<td >9.89</td>
+							<td >9.6</td>
+							<td >12.97</td>
+							<td >18.69</td>
+							<td class="last">35.29</td>
+							</tr>
+				<tr>
+						<td>_양평군(경기)</td>
+						<td >6.52</td>
+							<td >8.35</td>
+							<td >8.95</td>
+							<td >9.6</td>
+							<td >13.97</td>
+							<td >17.98</td>
+							<td class="last">34.63</td>
+							</tr>
+				</tbody>
+			</table>
+</body>
+</html>
